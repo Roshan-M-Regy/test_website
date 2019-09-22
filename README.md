@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Learn scripting with python to ease your grad life!
+
 
 You can use the [editor on GitHub](https://github.com/Roshan-M-Regy/Roshan-M-Regy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
